@@ -1,6 +1,7 @@
 # Atlassian Tools
 Used for quickly opening and searching JIRA,Confluence & Bitbucket.
 
+# How to use
 Variables needed:
 - environment
 - user_id
@@ -20,3 +21,6 @@ Methods:
 
 - repo - Searches Bitbucket Repo
 - pullrequests - Opens the pending pull request page
+
+# Download
+The latest release can be downloaded [here](https://github.com/EvertW/Atlassian-Tools/releases)
