@@ -7,7 +7,7 @@ Variables needed:
 
 Found in:
 - environment - https://[HERE].atlassian.net/
-- user_id - https://dtt-dev.atlassian.net/jira/people/[HERE]
+- user_id - https://[ENVIRONMENT].atlassian.net/jira/people/[HERE]
 
 Methods:
 - jira {project} - Searches JIRA project page
