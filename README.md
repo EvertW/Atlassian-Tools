@@ -5,18 +5,20 @@ Variables needed:
 - environment
 - user_id
 
+
 found in:
 
-environment - https://[HERE].atlassian.net/
-user_id - https://dtt-dev.atlassian.net/jira/people/[HERE]
+- environment - https://[HERE].atlassian.net/
+- user_id - https://dtt-dev.atlassian.net/jira/people/[HERE]
 
 Methods:
-jira {project} - Searches JIRA project page
-jira {issue} - Searches JIRA issue
-hourlog - Opens JIRA hourlog
+- jira {project} - Searches JIRA project page
+- jira {issue} - Searches JIRA issue
 
-confluence - Opens confluence page
-confluence {query} - Searches confluence for query
+-hourlog - Opens JIRA hourlog
 
-repo - Searches Bitbucket Repo
-pullrequests - Opens the pending pull request page
+- confluence - Opens confluence page
+- confluence {query} - Searches confluence for query
+
+- repo - Searches Bitbucket Repo
+- pullrequests - Opens the pending pull request page
